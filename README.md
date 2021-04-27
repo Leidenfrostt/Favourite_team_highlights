@@ -7,8 +7,10 @@ After that app will automatically:</br>
 * open new tabs with match summaries and official video highlights.
 
 ## How it works 
-GUI version
 
+GUI version </br>
+
+<img src="https://github.com/Leidenfrostt/Favourite_team_highlights/blob/main/how_it_works.gif" width="480px"/>
 
 ## Technologies 
 
